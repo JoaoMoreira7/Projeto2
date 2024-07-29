@@ -7,3 +7,16 @@ Atualiza a hora automaticamente a cada segundo.
 Exibe os segundos, minutos e horas.
 Tecnologias Utilizadas
 Linguagem: JavaScript
+Contribuição
+Sinta-se à vontade para fazer contribuições! Você pode:
+
+Reportar problemas ou bugs.
+Sugerir melhorias.
+Enviar pull requests com novas funcionalidades.
+Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+Contato
+Se você tiver alguma dúvida ou sugestão, entre em contato:
+
+Email: jaocarloss@gmail.com
